@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "eg72+f/uvtAAUzqhdcKAVgiyJLAzHjLG7OnBWjmzZVv6QUQtCU1gFqmSLy/NxtoISWCpO/sbAmZV8RpFevHbJw==",
+  "success": true,
+  "projectFilePath": "Z:\\mora\\Angular\\הגשת פרויקט\\לאהלה דזלדוב ותמר בובי\\project\\Server\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huser\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\huser\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\huser\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.0\\swashbuckle.aspnetcore.6.1.0.nupkg.sha512",
+    "C:\\Users\\huser\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.0\\swashbuckle.aspnetcore.swagger.6.1.0.nupkg.sha512",
+    "C:\\Users\\huser\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.0\\swashbuckle.aspnetcore.swaggergen.6.1.0.nupkg.sha512",
+    "C:\\Users\\huser\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.0\\swashbuckle.aspnetcore.swaggerui.6.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "WebApplication1 depends on Swashbuckle.AspNetCore (>= 6.0.11) but Swashbuckle.AspNetCore 6.0.11 was not found. An approximate best match of Swashbuckle.AspNetCore 6.1.0 was resolved.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
